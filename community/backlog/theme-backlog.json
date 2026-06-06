@@ -621,7 +621,9 @@
     "mainColor": "oklch(72.0% 0.155 330.0 / 1)",
     "secondaryColor": "oklch(80.0% 0.125 60.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": false,
+    "completedBy": "sahilgupta088",
+    "completedPR": 19768
   },
   {
     "id": "lucky-cat",
